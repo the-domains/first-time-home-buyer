@@ -1,0 +1,28 @@
+name: First Time Home Buyer
+favicon: null
+layout_spectrum: 0.08759821252897382
+typography_spectrum: 0.19632480340078473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6661306761670858
+  lightness: 0.24153449852019548
+  saturation: 0.9938975309487432
+  rhythmicContrast: 0.020061566960066557
+purpose: []
